@@ -16,6 +16,9 @@
 ### Project Overview
 This project analyzes coffee shop sales data to reveal customer preferences, peak times, and top products that drive growth. By unlocking these insights, it empowers businesses to refine their strategies, maximize revenue, and create memorable customer experiences. In a market where every choice matters, this analysis is key to staying ahead and thriving. Dive into the data to discover what makes your coffee shop truly stand out!
 
+![georh](https://github.com/user-attachments/assets/64cc62b6-975f-4e56-a60e-31ea6278c25a)
+![Power BI Desktop 9_5_2024 7_00_29 PM](https://github.com/user-attachments/assets/78109407-d851-4044-97b4-ab517727f10a)
+
 ### Data Source
 
 Sales data: The data is sourced from Maven Analytics as an Excel file format containing sales transaction records January to June 2023.The dataset included columns such as;Transaction ID, Transaction Date, Transaction Time, Transaction Quantity, Store ID, Store Location, Product ID, Unit Price, Product Category, and Product Type.             
