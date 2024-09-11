@@ -21,7 +21,7 @@ This project analyzes coffee shop sales data to reveal customer preferences, pea
 
 ### Data Source
 
-Sales data: The data is sourced from Maven Analytics as an Excel file format containing sales transaction records January to June 2023.The dataset included columns such as;Transaction ID, Transaction Date, Transaction Time, Transaction Quantity, Store ID, Store Location, Product ID, Unit Price, Product Category, and Product Type.             
+Sales data: The data is sourced from Maven Analytics as an Excel file format containing sales transaction records as from January to June 2023.The dataset included columns such as;Transaction ID, Transaction Date, Transaction Time, Transaction Quantity, Store ID, Store Location, Product ID, Unit Price, Product Category, and Product Type.             
 ### Tools
 
 - Power BI: Data Transformation and cleaning, generating interactive dashboard.[Download here](https://www.microsoft.com/en-us/download/details.aspx?id=58494)
